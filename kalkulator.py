@@ -9,6 +9,10 @@ def kali(a, b):
 def kurang(a, b):
     return a - b
 
+def bagi(a, b):
+    return a / b
+
 print(tambah(1, 1))
 print(kali(1, 2))
 print(kurang(1, 1))
+print(bagi(2, 2)
